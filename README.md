@@ -8,6 +8,9 @@
 
 - <b>SC2002 OOP Project</b>
   - [BTO Management System](https://github.com/yixi123/SC2002-Project)
+ 
+- <b>SC4031 IoT Project</b>
+  - [Banana Ripeness Detector](https://github.com/jeonqwon/banana_ripeness_detector.git)
 
 <!-- <h2> 🤳 Connect with me:</h2>
 
