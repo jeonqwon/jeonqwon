@@ -1,23 +1,36 @@
-<h1>Hello, I'm Jeongwon! <br/> Year 2 Computer Science student at NTU</a>
+<h1>Hello, I'm Jeongwon! <br/> Year 2 Computer Science student at NTU</h1>
+
 <h2>Hackathons</h2>
 
-- <b>iNTUtion</b>
-  - [Bank Buddy - Online Banking App](https://github.com/br4ndonlo0/iNTUtion)
+<ul>
+  <li><b>iNTUtion</b>
+    <ul>
+      <li><a href="https://github.com/br4ndonlo0/iNTUtion">Bank Buddy - Online Banking App</a></li>
+    </ul>
+  </li>
+</ul>
 
 <h2>School Projects</h2>
 
-- <b>SC2002 OOP Project</b>
-  - [BTO Management System](https://github.com/yixi123/SC2002-Project)
- 
-- <b>SC4031 IoT Project</b>
-  - [Banana Ripeness Detector](https://github.com/jeonqwon/banana_ripeness_detector.git)
+<ul>
+  <li><b>SC2002 OOP Project</b>
+    <ul>
+      <li><a href="https://github.com/yixi123/SC2002-Project">BTO Management System</a></li>
+    </ul>
+  </li>
+  <li><b>SC4031 IoT Project</b>
+    <ul>
+      <li><a href="https://github.com/jeonqwon/banana_ripeness_detector">Banana Ripeness Detector</a></li>
+    </ul>
+  </li>
+</ul>
 
-<!-- <h2> 🤳 Connect with me:</h2>
+<h2>Personal Projects</h2>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
--->
-
+<ul>
+  <li><b>SQL Data Analytics Project</b>
+    <ul>
+      <li><a href="https://github.com/jeonqwon/ecommerce-sql-analytics">E-Commerce User Retention & Engagement Analytics</a></li>
+    </ul>
+  </li>
+</ul>
